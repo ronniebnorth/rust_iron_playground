@@ -1,1 +1,0 @@
-/home/rono/rust_projects/rust_iron_playground/target/debug/rust_iron_playground: /home/rono/rust_projects/rust_iron_playground/src/main.rs /home/rono/rust_projects/rust_iron_playground/src/static/index.html
