@@ -1,1 +1,0 @@
-{"rustc":16448434725525097460,"features":"[]","target":12834686765073809074,"profile":731176819336294830,"deps":[["rand v0.3.18",18070217896073659418]],"local":[{"MtimeBased":[[1511402270,142573023],"/home/rono/rust_projects/hello_cargo/target/debug/.fingerprint/hello_cargo-64e85053ebe32d7b/dep-bin-hello_cargo-64e85053ebe32d7b"]}],"rustflags":[]}
